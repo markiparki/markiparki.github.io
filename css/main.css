@@ -24,6 +24,7 @@ a, a:hover {
     text-align: center;
 }
 #contact .social-icons {
+    margin-top: 18px;
     margin-left: -12px;
 }
 #contact .social-icons a {

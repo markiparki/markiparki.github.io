@@ -31,13 +31,6 @@ a, a:hover {
   text-decoration: none;
 }
 
-/* Mobile adjustments */
-@media only screen and (max-width: 767px) {
-	main {
-		width: 100%;
-	}
-}
-
 /* Hover.css Buzz Out */
 @-webkit-keyframes hvr-buzz-out {
     10% {
